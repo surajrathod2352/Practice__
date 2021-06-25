@@ -1,0 +1,5 @@
+here you can decler diffrent set of functions in diffrent places
+But you have to acll both of them at the same time for example 
+if you wrote like working part on main.go and functions in fun.go then you have to call bothlike:
+//go run main.g fun.go//
+and everything should work just fine
